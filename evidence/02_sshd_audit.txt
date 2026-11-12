@@ -1,0 +1,6 @@
+#PermitRootLogin prohibit-password
+#PasswordAuthentication yes
+#PermitEmptyPasswords no
+# PasswordAuthentication.  Depending on your PAM configuration,
+# the setting of "PermitRootLogin prohibit-password".
+# PAM authentication, then enable this but set PasswordAuthentication

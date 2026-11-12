@@ -1,0 +1,4 @@
+-rw-r--r-- 1 root root   1315 Nov  9 20:42 /etc/group
+-rw-r--r-- 1 root root   3263 Nov  9 20:42 /etc/passwd
+-rw-r----- 1 root shadow 1464 Nov  9 20:42 /etc/shadow
+-rw-r--r-- 1 root root   3424 Jun  1 06:37 /etc/ssh/sshd_config
